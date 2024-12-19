@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="152.4mm" height="152.4mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 15240 15240"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil4 {fill:none}
+    .fil3 {fill:#46B64D}
+    .fil2 {fill:#724924}
+    .fil1 {fill:#D51D50}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1788823343264">
+   <g>
+    <ellipse id="contour" class="fil0" cx="7620.01" cy="7620" rx="7255.7" ry="7255.74"/>
+    <path id="contour_14" class="fil1" d="M7620.01 364.25c4007.22,0 7255.71,3248.52 7255.71,7255.75 0,4007.22 -3248.49,7255.74 -7255.71,7255.74 -4007.22,0 -7255.7,-3248.52 -7255.7,-7255.74 0,-4007.23 3248.48,-7255.75 7255.7,-7255.75zm-0.06 985.8c3462.82,0 6270.01,2807.18 6270.01,6270 0,3462.82 -2807.19,6270.01 -6270.01,6270.01 -3462.82,0 -6270,-2807.19 -6270,-6270.01 0,-3462.82 2807.18,-6270 6270,-6270z"/>
+    <polygon class="fil2" points="7194.03,2529.22 7996.39,2529.22 7996.39,3974.1 7595.2,4369.68 7194.03,3974.12 "/>
+    <polygon class="fil1" points="10936.07,4842.04 11597.04,4842.04 11597.04,10801.12 10936.07,10801.12 10936.07,11517.52 10342.9,11517.52 10342.9,12073.89 4912.23,12073.89 4912.23,11517.52 4321.65,11517.52 4187.85,11517.52 4187.85,10824.19 3626.6,10824.19 3626.6,4804.47 4321.65,4804.47 4321.65,4178.92 7170.82,4178.92 7595.2,4597.36 8019.58,4178.92 10936.07,4178.92 "/>
+    <rect class="fil3" transform="matrix(0.707107 -0.707107 0.707107 0.707107 8055 4182.33)" width="1754.16" height="1754.16"/>
+    <rect class="fil0" x="4861.39" y="5724.03" width="917.34" height="917.34"/>
+   </g>
+   <rect class="fil4" x="-0" y="-0" width="15240" height="15240"/>
+  </g>
+ </g>
+</svg>
